@@ -1,0 +1,8 @@
+# Rever o tipo do jogo. [OK]
+# Renomear o projeto no github e localmente.
+
+# Mudança de poses de ataque, do 1 para o 2, do 2 para o 3, do 3 para o 1 e assim por diante. [IMPLANTADO E DESCARTADO]
+
+# Procurar metodo de save mais eficiente
+
+# Terminar de implementar o sistema de upgrade por cartas
