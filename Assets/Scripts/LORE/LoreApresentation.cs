@@ -54,6 +54,5 @@ public class LoreApresentation : MonoBehaviour
 	{
 		SceneManager.LoadSceneAsync(SceneIndex);
 		i = 0;
-		
 	}
 }
