@@ -1,2 +1,2 @@
 # Darker
-Jogo plataforma 3D de com puzzles, estrategias e habilidades.
+Jogo plataforma 3D com puzzles, estrategias e habilidades.
